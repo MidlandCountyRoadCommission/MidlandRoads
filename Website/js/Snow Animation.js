@@ -14,7 +14,7 @@ window.onload = function () {
 
 
 
-    var ScaleFactor = .3;
+    var ScaleFactor = .2;
     var Arc = Math.log2(W) * ScaleFactor;
     console.log(Arc);
 

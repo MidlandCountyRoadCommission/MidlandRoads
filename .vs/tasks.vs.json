@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Snow",
+      "appliesTo": "Website/html/PageElements/Snow.html",
+      "type": "launch"
+    }
+  ]
+}
