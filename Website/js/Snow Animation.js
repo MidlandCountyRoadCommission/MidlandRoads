@@ -86,5 +86,5 @@ window.onload = function () {
         }
     }
     //animation loop
-    setInterval(draw, 40);
+    setInterval(draw, 60);
 }
